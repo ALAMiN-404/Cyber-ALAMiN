@@ -14,27 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+Cyber-ALAMiN;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅E+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
-
-
-### Hi there 👋 I'm ALAMiN from Bangladesh.❤️
-
-<!--
-**Cyber-ALAMiN/Cyber-ALAMiN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+Cyber-ALAMiN;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅E+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
-
 
 <img src="https://github.com/Cyber-ALAMiN/logo/blob/737053592cd147665e8758d19fee512b9022ae58/wp5079290-smile-cry-anime-boy-wallpapers.jpg" width="120" height="120" align="left">
 <center>
@@ -54,26 +33,9 @@ Want to contact <a href="https://github.com/Azim-vau"><b>Cyber ALAMiN </a> ?</br
 CONTACT : <i>mdalaminmondol699@gmail.com</i>  <br> <br> 
 
 
-<a href="https://github.com/Azim-Vau/followers">
-<img title="Followers" src="https://img.shields.io/github/followers/Azim-vau?label=Followers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Azim-Vau/termux-style/stargazers/">
-  <a href="https://github.com/Azim-Vau/fcpro">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Cyber-ALAMiN/Cyber-Crack.svg"/>
-  </a>
-  <a href="https://github.com/Azim-Vau/fcpro">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/Cyber-ALAMiN/Cyber-Crack.svg"/>
-  </a>
-  <a href="https://github.com/Azim-Vau/fcpro">
-    <img alt="Starts" src="https://img.shields.io/github/stars/Cyber-ALAMiN/Cyber-Crack.svg"/>
-  </a>
-<a href="https://github.com/Azim-Vau/fcpro">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Cyber-ALAMiN/Cyber-Crack.svg"/>
-  </a>
-
-<a href="https://github.com/Azim-Vau/fcpro">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Cyber-ALAMiN/Cyber-Crack.svg"/> <a href="https://github.com/Cyber-ALAMiN/Cyber-Crack">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Cyber-ALAMiN/Cyber-Crack.svg"/>
-  </a>
+<a href="https://github.com/Cyber-ALAMiN/followers">
+<img title="Followers" src="https://img.shields.io/github/followers/Cyber-ALAMiN?label=Followers&color=blue&style=flat-square"></a>
+</a>
 </div>
 
 <p align="center">
@@ -88,3 +50,7 @@ CONTACT : <i>mdalaminmondol699@gmail.com</i>  <br> <br>
 
 
 #### THANKS FOR VISIT MY PROFILE
+
+  
+  
+  
